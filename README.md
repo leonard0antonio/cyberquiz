@@ -26,7 +26,7 @@ Os participantes são classificados com faixas de cores que representam seus con
 
 ## 📸 Capturas de Tela do Projeto
 
-![Demo da aplicação](demo.gif)
+![Demo da aplicação](demo.png)
 
 ### Página Inicial:
 - Bem-vindo ao Cyber Sensei, com integração de vídeo explicativo e design responsivo.
